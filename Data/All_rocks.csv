@@ -1,0 +1,36 @@
+Rock type;Rock subtype;Rock subsubtype;Rock subsubsubtype;Rock subsubsubsubtype;Rock
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Andesitoid;Andesite;
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Anorthositoid;Anorthosite;
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Basaltoid;KREEP basalt;
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Basaltoid;Komatiite;
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Basaltoid;Basalt;
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Dacitoid;Dacite;
+Igneous;Exotic crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";;Carbonatite;
+Igneous;Normal crystalline igneous;"Fine-grained (""volcanic"") normal crystalline igneous";Fine-grained;Diabase;
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Gabbroid;Gabbro;
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Granitoid;Granodiorite;
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Granitoid;Tonalite;
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Coarse-grained ultramafic;Peridotite;Dunite
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Coarse-grained ultramafic;Peridotite;Harzburgite
+Igneous;Normal crystalline igneous;"Coarse-grained (""plutonic"") crystalline igneous";Coarse-grained ultramafic;Pyroxenite;
+Igneous;Normal crystalline igneous;;Ultramafic;Chromitite;
+Metamorphic;;;;Gneiss;
+Metamorphic;;Metamafic;;Metabasalt;
+Metamorphic;;Metacarbonate;;Ophicarbonate;
+Metamorphic;;Meta-Igneous;;Serpentinite;
+Metamorphic;;Metamorphosed Banded Iron Formation;;;
+Metamorphic;;Metasedimentary;Meta clastic sedimentary;Metasandstone;
+Metamorphic;;Metasedimentary;Metasiliceous;Metachert;
+Metamorphic;;;Quartzite;;
+Sedimentary;;Biochemical and chemical sedimentary;Carbonate;Breccia;
+Sedimentary;;Biochemical and chemical sedimentary;Carbonate;Limestone;Travertine
+Sedimentary;;Biochemical and chemical sedimentary;Evaporite;;
+Sedimentary;;Biochemical and chemical sedimentary;Ironstone;;
+Sedimentary;;Sediment;Mud;Clay;
+Sedimentary;;;Mudstone;Claystone;Bentonite
+Sedimentary;;Clastic sedimentary;Mudstone;Shale;Black Shale
+Sedimentary;;Clastic sedimentary;Mudstone;Siltstone;
+Sedimentary;;Biochemical and chemical sedimentary;Phosphorite;;
+Sedimentary;;Clastic sedimentary;Sandstone;;
+Sedimentary;;Biochemical and chemical sedimentary;Siliceous;Chert;
+Sedimentary;;Biochemical and chemical sedimentary;Siliceous;Sinter;

@@ -1,0 +1,329 @@
+Elements;RefNo
+S, Fe, Mg, Ca, P, Zn, Co, Ni;1
+Mg, Fe, Si, O;1
+Ca, O, Mg, Fe, Si;1
+Ca, O, Al, Si;1
+Na, O, Al, Si;1
+Mg, Fe, Si, O;1
+K, O, Al, O, Si;1
+Fe, O, Ti;1
+Fe, O, Cr;1
+Ca, O, P, Ca, F;1
+Fe, S;1
+Fe, O;1
+Ca, Ti, Si, O;1
+Mg, Si, O, H;1
+Al, O, H;1
+Al, Si, O, H;1
+Mg, Fe, Al, Si, O, H;1
+Ca, Al, Fe, Si, O, H;1
+Na, Al, Si, O, H;1
+K, Al, Si, O, H;1
+Ca, Al, Si, O, H;1
+Ca, Fe, Si, O;1
+Ca, S, O;1
+K, Mg, Al, Si, O, H;1
+Ca, Al, Si, O, H;1
+Ca, Al, Si, O;1
+Al, O, H;1
+Al, Si, O, H;1
+Ca, Al, Si, O, H;1
+P, K, Fe, Ca, Mg;1
+Mg, Fe, Si, O;1
+Si, Al, O;1
+Fe, Si, O, H;1
+Fe, O;1
+Fe, O, H;1
+Fe, S;1
+Fe, S;1
+Fe, Ni, S;1
+Fe, Ni, S;1
+Mg, Fe, Si, O, H;1
+Fe, Ni, S;1
+Fe;2
+Ca, C, O, Mg, U, Th;3
+Ca, Al, Si, O, K, P, Fl, Cl, H;3
+Mg, Fe, Si, O;3
+Mg, Fe, Si, O, H;3
+Fe, O;3
+Mg, O, H;3
+Si, O, Al, Na, Ca, K, Fe, Mg;3
+Si, Al, Fe, Mg, Ca, Na, K, O;3
+Si, Al, Fe, Mg, Ca, Na, K, O;3
+Ca, C, O, Mg, Fe, Mn, Na, K, P, F, Cl, H, La, Ce, Nd, Sr, Ba, U, Th;3
+Ca, Mg, C, O;4
+Si, O;4
+Ca, C, O;4
+K, Mg, Al, Si, O, F, H;4
+K, Al, Si, O, H, F;4
+Ca, Mg, Si, O, H;4
+Fe, S, O;4
+K, Ba, Al, Si, O;4
+Ca, Mg, C, O;4
+Si, O;4
+K, Ba, Al, Si, O;4
+Ca, Mg, C, O;4
+Si, O;4
+K, Mg, Al, Si, O, F, H;4
+Si, O;4
+Si, O;4
+Fe, O;4
+Si, O;4
+Ca, Mg, C, O;4
+K, Mg, Al, Si, O, F, H;4
+Na, O, Al, Si, Ca;4
+Ca, Na, Mg, Fe, Al, Si, O, H;4
+Si, O;4
+Zr, Si, O;4
+Fe, O;5
+Fe, O;5
+Fe, O;5
+Ca, C, O, Fe, Mg;5
+Ca, P, O, F, Cl, H;5
+C;5
+K, Na, Ca, Fe, Mg, Al, Si, O, H;5
+Fe, Si, O, H;5
+Na, O, Al, Si, Ca;5
+Ca, Fe, C, O;5
+Si, O;6
+Si, O;6
+Si, O;6
+Si, O;6
+Si, O;6
+Fe, Si, O;6
+Fe, Si, O;6
+Ca, Mg, Fe, C, O, Si;6
+Ca, Mg, Fe, C, O, Si;6
+Si, O, K, Na, Al, Si;6
+Si, O, K, Na, Al, Si;6
+Ca, Na, Mg, Fe, Al, Si, O;6
+Ca, Na, Mg, Fe, Al, Si, O;6
+Ba, S, O, Si;6
+Ba, S, O, Si;6
+Mg, Fe, Si, O;7
+Mg, Fe, Si, O;7
+Mg, Fe, Si, O, H;7
+Mg, Fe, Si, O, Al, H;7
+Fe, O;7
+Mg, Fe, Si, O;8
+Mg, Fe, Si, O;8
+Mg, Fe, Si, O;8
+Mg, Fe, Si, O, H;8
+Fe, O;8
+Mg, Fe, O, H;8
+Mg, Fe, Si, O, H;8
+Mg, Fe, Si, O, Al, H;8
+Ni, Fe;8
+Ca, C, O, Si, Fe;9
+Mg, Fe, Si, O;9
+Si, O, Al, Fe, Mg, Ca, Na, K;9
+Si, O;9
+Mg, Fe, Si, O;9
+K, Al, Si, O, Na, Ca;9
+Si, Al, O, Fe, Ca, Mg, Na, K, Ti, H;9
+Mg, Fe, Si, O;10
+Mg, Si, O, H;10
+Mg, Si, O, H;10
+Mg, O, H;10
+Fe, O;10
+Ca, P, O, F, Cl, H;11
+Ca, P, O, F, Cl, H;11
+Ca, C, O, Mg, Fe;11
+Si, O, Al, Fe, Mg, Ca, Na, K, Ti;11
+Mg, Fe, Si, O;12
+Mg, Fe, Si, O;12
+Mg, Fe, Si, O, H;12
+Fe, O;12
+Ca, Na, Al, Si, O;12
+Mg, Fe, Si, O;12
+Mg, O, H;12
+Fe, Cr, O;12
+Mg, Fe, Si, O;12
+Fe, S;12
+Fe, S;12
+Mg, Fe, Si, O;13
+Mg, Fe, Si, O;13
+Ca, Na, Al, Si, O;13
+Ca, Na, Mg, Fe, Al, Si, O;13
+Ca, C, O;13
+Mg, Fe, Si, O, H;13
+Fe, Cr, O;13
+Fe, Ni;13
+Ca, O, Mg, Fe, Si;14
+Si, O, Al, Ca, Na, K, Fe, Mg;14
+Mg, Fe, Si, O;14
+Si, Al, O, Fe, Ca, Mg, Na, K, P, S, C;14
+Si, Al, Fe, O, Ca, Mg, K, Na, Ti;14
+Fe, Ni, P;14
+Mg, Fe, Si, O;15
+Mg, Fe, Ca, Si, O;15
+Ca, C, O;15
+Fe, C, O;15
+Na, H, C, O;15
+Na, Cl;15
+K, Cl;15
+Na, Fe, H, O;15
+Fe, O;15
+Fe, O;16
+C, Fe, Si, Al;16
+Mg, Fe, Si, O;16
+Mg, Si, O, H;16
+Mg, Fe, Si, O;16
+Ca, Mg, Fe, Al, Si, O;16
+Ca, C, O;16
+Si, O;16
+Mg, Fe, Si, O;17
+Na, Ca, Si, Al, O;17
+Ca, Na, Mg, Fe, Al, Ti, Si, O;17
+Mg, Fe, Si, O, H;17
+Fe, C, O;17
+Ca, Mg, C, O;17
+Fe, S;17
+Na, Ca, Al, Mg, Si, O, H;17
+Mg, O, H;17
+Fe, O;17
+Mg, Fe, Si, O, H;18
+Mg, Fe, Si, O;18
+Mg, Fe, Ca, Si, O;18
+Mg, C, O;18
+Mg, Si, O, Fe;19
+Mg, Fe, Si, O;19
+Mg, Si, O, H;19
+Mg, O, H;19
+Fe, O;19
+Ni, Fe;19
+Fe, S;19
+Fe, S;19
+Mg, Fe, Si, O;20
+Ca, Mg, Fe, Si, O;20
+Fe, Mg, Cr, O;20
+Mg, Fe, Si, O, H;20
+Ca, C, O;20
+Si, O, Al, Fe, Mg, Ca, Na, K, Ti, H;20
+Si, Fe, Mg;21
+Si, Fe, Mg;21
+Si, Fe, Mg;21
+Si, Fe, Mg, O;22
+Si, Fe, Mg, O, H;22
+Si, Fe, Mg, O, H;22
+Si, Fe, Mg, O, H;22
+Fe, Mg, O, H;22
+Fe, O;22
+Fe, Si, O, H;22
+Fe, Si, O, H;22
+Si, O;23
+Si, O;23
+Si, O;23
+Si, O, Al, K;23
+Si, O;23
+Si, O;24
+Si, O;24
+Si, O;24
+Ca, C, O;24
+C;24
+Si, O;25
+Ca, C, O, Si, Fe;26
+Si, O;26
+Si, O, Al, Fe, Ca, C, Mg, K, Na, C;26
+Si, O;26
+Ca, C, O;26
+Mg, Si, O, H;27
+Fe, O;27
+Mg, O, H;27
+Mg, Si, O, H;27
+Ni, Fe;27
+Mg, Si, O;27
+Mg, Si, O, Fe;27
+Mg, Si, O;27
+H, P, O;27
+Si, O;28
+Si, O;28
+K, Na, Al, Si, O;28
+Ca, Mg, Fe, Si, O;28
+Ca, Al, Si, O, Na;28
+Ca, Mg, Fe, Si, O;28
+Mg, Fe, Si, O;28
+Fe, O;28
+Fe, O;28
+Mg, Fe, Si, O;29
+Mg, Fe, Si, O;29
+Mg, Fe, Si, O;29
+Si, O, Al, Fe, Mg, Ca, Na, K, Ti;29
+Na, Al, Si, O, Ca;29
+Na, Ca, Al, Mg, Si, O, H;29
+Na, K, Ca, Al, Si, O, H;29
+Ni, Fe;29
+Mg, Fe, Si, O;30
+Mg, Fe, Si, O;30
+Mg, Fe, Si, O;30
+Fe, C, O;30
+Mg, C, O;30
+Mg, Si, O, H;30
+Mg, Si, O, H;30
+U, O;30
+Th, Si, O;30
+K, Al, Si, O;30
+Fe, O;31
+Fe, Ni, Co;31
+Ca, P, O, F, Cl, H;32
+Si, O;32
+Fe, O;32
+Ca, P, O, F;32
+Mg, Fe, Si, O;32
+Si, O;32
+Mg, Fe, Si, O, H;33
+Ni, Fe;33
+Fe, Ni, S;33
+Mg, Si, O, Fe;33
+Ca, Mg, Fe, Si, O;33
+Fe, O;33
+Mn, Fe, O;34
+Mn, Fe, O;34
+Mn, Fe, O;34
+Ni, Fe, O;34
+Cu, Fe, O;34
+Mg, Fe, O;34
+Fe, Cr, O;34
+Mn, Fe, O;34
+Fe, Ti, O;35
+Fe, O;35
+Na, Al, Si, O, Ca;35
+K, Al, Si, O;35
+Ca, P, O, F, Cl, H;35
+Fe, Al, Si, O, H;35
+Ca, Mg, Al, Si, O, H;35
+Si, O;35
+Ca, Ti, Si, O;35
+Ba, S, O;35
+Si, O, Al, Ca, Fe, Mg, Ti, Na, K, Cr;36
+Fe;36
+Mg, Fe, Si, O;36
+Fe, O, H;36
+Fe, Si, Al, Mg;36
+Ca, Fe, Mg, Si, O;36
+Mg, Fe, C, O;36
+Ca, C, O;37
+Si, O;37
+Fe, S;37
+Fe, O;37
+Fe, O;37
+Fe, O, C;37
+Si, O;38
+Ca, Mg, C, O;38
+Na, Ca, Al, Mg, Si, O, H;38
+Al, Si, O, H;38
+Mg, Si, O, H;38
+Ca, P, O, F;38
+Si, O;38
+Mg, Si, O;39
+Mg, Si, O;39
+Ca, Mg, C, O;39
+Mg, C, O;39
+Ca, P, O, H;39
+Fe, S;39
+Si, O;40
+Al, Si, O, H;40
+Ca, C, O;40
+Ba, C, O;40
+Al, Si, O, H;41
+Ca, C, O;41

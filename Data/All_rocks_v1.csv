@@ -1,0 +1,38 @@
+Rock type;Rock subtype;Rock
+Igneous;Andesitoid;Andesite
+Igneous;Anorthositoid;Anorthosite
+Igneous;Basaltoid;KREEP basalt
+Igneous;Basaltoid;Komatiite
+Igneous;Basaltoid;Basalt
+Igneous;Dacitoid;Dacite
+Igneous;Exotic crystalline igneous rock;Carbonatite
+Igneous;Fine-grained;Diabase
+Igneous;Gabbroid;Gabbro
+Igneous;Granitoid;Granodiorite
+Igneous;Granitoid;Tonalite
+Igneous;Peridotite;Dunite
+Igneous;Peridotite;Harzburgite
+Igneous;Pyroxenite;
+Igneous;Ultramafic;Chromitite
+Metamorphic;Gneiss;
+Metamorphic;Metamafic;Metabasalts
+Metamorphic;Metacarbonate;Ophicarbonate
+Metamorphic;Meta-Igneous;Serpentinite
+Metamorphic;Metamorphosed Banded Iron Formation;
+Metamorphic;Metasandstone;
+Metamorphic;Metasedimentary;
+Metamorphic;Metasiliceous;Metachert
+Metamorphic;Quartzite;
+Sedimentary;Carbonate;Breccia
+Sedimentary;Carbonate;Limestone
+Sedimentary;Carbonate;Travertine
+Sedimentary;Evaporite;
+Sedimentary;Ironstone;
+Sedimentary;Mud;Clay
+Sedimentary;Mudstone;Bentonite
+Sedimentary;Mudstone;Black Shale
+Sedimentary;Mudstone;Siltstone
+Sedimentary;Phosphorite;
+Sedimentary;Sandstone;
+Sedimentary;Siliceous;Chert
+Sedimentary;Siliceous;Sinter
